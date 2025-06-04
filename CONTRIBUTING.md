@@ -13,7 +13,7 @@ Click the **Fork** button (top right) to create your own copy of the repository.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/sentiment-analysis-mcp.git
+git clone https://github.com/KunjShah01/sentiment-analysis-mcp.git
 cd sentiment-analysis-mcp
 ```
 
